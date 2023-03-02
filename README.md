@@ -2,7 +2,7 @@
 
 This repository contains the code for the paper "BeeHIVE: Behavioral Biometric System based on Object Interactions in Smart Environments". The specifics of experimental design, methodology and evaluation can be found in the paper. This work has been a collaboration between Klaudia Krawiecka, Simon Birnbach, Simon Eberz and Ivan Martinovic from the Systems Security Lab at the University of Oxford.
 
-The repository contains the scripts used to create the figures and tables for the paper. These scripts are provided as Jupyter notebooks containing python code. Each Jupyter notebook can be used to generate one specific figure or table from the paper. The Jupyter notebooks are named in a way that corresponds to the figure or table that they are meant to produce. For example, the Jupyter notebook “Table1.ipynb” can be used to produce Table 2 from the paper.
+The repository contains the scripts used to create the figures and tables for the paper. These scripts are provided as Jupyter notebooks containing python code. Each Jupyter notebook can be used to generate one specific figure or table from the paper. The Jupyter notebooks are named in a way that corresponds to the figure or table that they are meant to produce. For example, the Jupyter notebook “Table1.ipynb” can be used to produce Table 1 from the paper.
 In some cases, subfigures or table columns have their own Jupyter notebooks (e.g., "Figure6a" or "Table2_ondevice").
 
 ## Dataset
