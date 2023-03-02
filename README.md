@@ -18,7 +18,8 @@ If you use this repository please cite the paper as follows:
   url = {https://arxiv.org/abs/2202.03845},
   eprint = {2202.03845},
   archivePrefix = {arXiv},
-  primaryClass = {cs.CR} }
+  primaryClass = {cs.CR}
+  }
 ```
 
 ## Acknowledgements
